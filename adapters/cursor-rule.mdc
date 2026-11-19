@@ -1,0 +1,5 @@
+---
+description: WebExtensions MV3 cross-browser skill
+globs: manifest*.json
+---
+Lee `.skill/browser-extensions-agent-skill/SKILL.md` antes de editar manifiestos o empaquetado de extensión.
