@@ -9,4 +9,4 @@ No mezclar propiedades exclusivas de cada navegador en un único `manifest.json`
 | Panel lateral | `chrome.sidePanel` (`side_panel`) | `sidebar_action` |
 | ID y compatibilidad | Clave de Web Store | `browser_specific_settings.gecko` (`id`, `strict_min_version`, `data_collection_permissions`) |
 
-- **Firefox 2024+**: `data_collection_permissions` requiere `strict_min_version >= 142.0` si se soporta Firefox para Android.
+- **Firefox 140+ / Android 142+ (2025+)**: `data_collection_permissions` requiere `strict_min_version >= 142.0` si se soporta Firefox para Android.
